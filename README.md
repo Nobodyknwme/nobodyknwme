@@ -16,16 +16,21 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-I'm a passionate DevOps Engineer with a love for automation, continuous integration, and continuous delivery. With 3 years of experience in the field, I've honed my skills in building robust CI/CD pipelines, managing cloud infrastructure, and optimizing development workflows.
+An experienced Data Engineer with a passion for navigating the evolving landscape of technology, I am committed to leveraging my diverse skill set to drive innovation and optimize data processes. My journey began with a strong foundation in computer science, cultivated through my education at Kyiv National Aviation University, where I continuously sought to expand my knowledge. Today, I am deepening my expertise and am fully immersed in the dynamic world of data engineering.
 
 ## 🛠️ Technologies & Tools
 
 - **Cloud Providers:** AWS, GCP, Azure
 - **Containers:** Docker, Kubernetes
+- **Big Data & Distributed Systems** Apache Spark, Hadoop, Kafka, Power BI
+- **Data Warehousing:** Snowflake, Redshift, BigQuery
 - **CI/CD:** Jenkins, GitHub Actions, GitLab CI, CircleCI
-- **Configuration Management:** Ansible, Terraform, Chef, Puppet, AWS Cloudformation
+- **ETL & Data Pipelines:** Apache Airflow, dbt, Talend
+- **Database Management Systems:** SQL, NoSQL (MongoDB, Cassandra)
+- **Data Modeling & Processing:** Pandas, NumPy, PySpark
+- **Infrastructure as Code (IaC):** Ansible, Terraform, Chef, Puppet, AWS Cloudformation
 - **Monitoring:** Prometheus, Grafana, ELK Stack
-- **Scripting:** Bash, Python
+- **Scripting & Automation:** Python, Bash, SQL, PowerShell
 - **Version Control:** Git, GitHub, GitLab
 - **Other Tools:** Helm, Vault, Packer
 
